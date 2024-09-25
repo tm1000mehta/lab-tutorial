@@ -59,7 +59,7 @@ Python:
 
 R:
 ```sh
-    conda env create -f s<env_name_py>.yml
+    conda env create -f <env_name_py>.yml
 ```
 
 #### To activate and use the environment:
