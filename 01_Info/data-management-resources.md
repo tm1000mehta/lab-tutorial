@@ -4,6 +4,7 @@
     - [Creating a README](https://ubc-library-rc.github.io/rdm/content/03_create_readme.html)
     - [Directory Structures](https://ubc-library-rc.github.io/rdm/content/04_directory_structures.html)
 - [Example Research Repostiory Template - EthanJantz](https://github.com/EthanJantz/Research-Project-Template/tree/main)
+- [Tips for Publishing Research Code](https://github.com/paperswithcode/releasing-research-code/tree/master): Has a templates specifically for ML research
 - [Brain Imaging Data Structure (BIDS)](https://bids-specification.readthedocs.io/en/stable/introduction.html) - Data storage and meta-data standard designed for neuroimaging modalities. The manual defines examples of detailed meta-data files and dictionaries at different levels. 
     - [New Microscopy BIDS Extension](https://bids-specification.readthedocs.io/en/stable/modality-specific-files/microscopy.html)
     - [dataset_description.json](https://bids-specification.readthedocs.io/en/stable/modality-agnostic-files.html#dataset_descriptionjson)
