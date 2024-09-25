@@ -15,11 +15,11 @@ y = np.sin(x)
 #Draw initial figure and axis
 fig, ax = plt.subplots()
 
-#Plot sine wave
-ax.plot(x, y)
-
 #Plot reference line
 ax.plot(x, np.zeros(len(x)), linestyle="--", color='0.8')
+
+#Plot sine wave
+ax.plot(x, y)
 
 #Show plot
 plt.savefig(os.path.realpath("04_Outputs/01_Figures/sineplot.png"))
